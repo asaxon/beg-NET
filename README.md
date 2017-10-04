@@ -1,4 +1,4 @@
 # beg-NET
 Honing .NET Craft
 
-# Public Git to track items i've worked on in .NET Framework
+# Public Git to track items i've worked on in C#
